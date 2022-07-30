@@ -7,8 +7,13 @@ This project is part of the Udacity Azure ML Nanodegree. The objective of this p
 ![](../sample_screenshots/Architectural_Diagram.png)
 
 ## Key Steps
-
-
+### Step 1: Authentication
+### Step 2: Automated ML Experiment
+### Step 3: Deploy the Best Model
+### Step 4: Enable Application Insights
+### Step 5: Swagger Documentation
+### Step 6: Consume Model Endpoints
+### Step 7: Create, Publish and Consume a Pipeline
 ## Screen Recording
 1. Create AutoML
 	- Best-model-deploy.mp4
