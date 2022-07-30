@@ -41,7 +41,7 @@ This project is part of the Udacity Azure ML Nanodegree. The objective of this p
 ![](../sample_screenshots/swagger_serve.png)
 
 - Swagger document
-![](../sample_screenshots/swagger_response.png)
+![](../sample_screenshots/swagger_started.png)
 
 ## Screen Recording
 1. Create AutoML
