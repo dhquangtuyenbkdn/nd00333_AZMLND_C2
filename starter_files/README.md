@@ -1,15 +1,13 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
-
-# Your Project Title Here
-Project with ws: quick-starts-ws-202754
-
+# Project: Operationalizing Machine Learning
+## Overview	
+This project is part of the Udacity Azure ML Nanodegree. The objective of this project is to configure a cloud-based machine learning production model, deploy it, and consume it and create automated process creating, publishing and consuming a pipeline.	
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+![](../sample_screenshots/Architectural_Diagram.png)
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+
 
 ## Screen Recording
 1. Create AutoML
