@@ -45,18 +45,18 @@ This project is part of the Udacity Azure ML Nanodegree. The objective of this p
 
 ## Screen Recording
 1. Create AutoML
-	- [Best-model-deploy](../sample_screenshots/Best-model-deploy.mp4)
+	- [Best-model-deploy](https://youtu.be/b3RutKESEN0)
 		+ Start deploy best model after train model comple
-	- [Best-model-deployed-endpoint-running](../sample_screenshots/Best-model-deployed-endpoint-running.mp4)
+	- [Best-model-deployed-endpoint-running](https://youtu.be/bTgyM47E1sA)
 		+ Deploy best model compl
 		+ Run endpoit.py
 		+ Run benchmark.sh
 		
 2. Pipeline
-	- [Pipeline-Start](../sample_screenshots/Pipeline-Start.mp4)
+	- [Pipeline-Start](https://youtu.be/rFZa4h7LbK0)
 		+ Config and publish pipeline
 		
-	- [Pipeline-running-completed-Publish-endpoint](../sample_screenshots/Pipeline-running-completed-Publish-endpoint.mp4)
+	- [Pipeline-running-completed-Publish-endpoint](https://youtu.be/AVI1U_TONUU)
 		+ Pipeline run com
 		+ Output best model
 		+ Publish API Endpoint
